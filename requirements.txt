@@ -1,0 +1,7 @@
+llama-index
+openai
+python-dotenv
+pypdf # For handling PDF files
+python-docx # For handling .docx files
+# Add any other specific libraries you might need, e.g., pandas for data manipulation
+# pandas
