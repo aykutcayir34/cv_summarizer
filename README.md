@@ -68,8 +68,8 @@ The tool extracts and structures the following information:
 
 ## License
 
-[Your chosen license]
+NONE
 
 ## Contributing
 
-[Contributing guidelines if applicable]
+NONE
