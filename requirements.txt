@@ -3,5 +3,7 @@ openai
 python-dotenv
 pypdf # For handling PDF files
 python-docx # For handling .docx files
+pydantic # For data validation and structured output
 # Add any other specific libraries you might need, e.g., pandas for data manipulation
-# pandas
+pandas
+python-dotenv
